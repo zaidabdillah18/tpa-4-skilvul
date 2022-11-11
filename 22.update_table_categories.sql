@@ -1,0 +1,1 @@
+UPDATE `categories` SET `name` = 'celana' WHERE `id` = 1;

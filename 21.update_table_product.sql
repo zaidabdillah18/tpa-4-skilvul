@@ -1,0 +1,1 @@
+UPDATE `product` SET `name` = 'celana' WHERE `id` = 1;

@@ -1,0 +1,1 @@
+INSERT INTO `product` (`id`,`name`,`description`,`price`,`stock`) VALUES (1,'baju tidur anak','baju tidur anak murah meriah', 20000, 1);
